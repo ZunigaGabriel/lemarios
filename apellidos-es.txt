@@ -6,6 +6,7 @@ Benítez
 Blanco
 Blesa
 Bravo
+Burgos
 Caballero
 Cabrera
 Calvo
@@ -31,6 +32,7 @@ Flores
 Fuentes
 Gallardo
 Gallego
+Gamez
 García
 Garrido
 Gil
@@ -43,6 +45,7 @@ Hernández
 Herrera
 Herrero
 Hidalgo
+Higareda
 Ibáñez
 Iglesias
 Jiménez
